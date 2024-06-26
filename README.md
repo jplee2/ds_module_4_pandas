@@ -1,2 +1,3 @@
-# ds_module_4_pandas
-Using Pandas and Jupyter Notebook, I combined and produced different data frames to analyze the performance of a school district.
+# Data Science Bootcamp: Module 4 - PANDAS
+
+My task was to aggregate the data to showcase obvious trends in school performance. My analysis will be used to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
